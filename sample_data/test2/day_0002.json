@@ -1,0 +1,38 @@
+[
+    {
+        "participant": "Sophia",
+        "distance": 979.9,
+        "speed": 430.03,
+        "transport": "Kayak"
+    },
+    {
+        "participant": "Sophia",
+        "distance": 876.9,
+        "speed": 606.61,
+        "transport": "Blimp"
+    },
+    {
+        "participant": "Mary",
+        "distance": 780.7,
+        "speed": 639.8,
+        "transport": "Walking"
+    },
+    {
+        "participant": "Richard",
+        "distance": 418.4,
+        "speed": 415.29,
+        "transport": "ATV"
+    },
+    {
+        "participant": "Mary",
+        "distance": 497.0,
+        "speed": 259.19,
+        "transport": "Covered Wagon"
+    },
+    {
+        "participant": "Richard",
+        "distance": 97.4,
+        "speed": 381.38,
+        "transport": "Gondola"
+    }
+]

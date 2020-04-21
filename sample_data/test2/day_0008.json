@@ -1,0 +1,14 @@
+[
+    {
+        "participant": "Sophia",
+        "distance": 182.0,
+        "speed": 761.96,
+        "transport": "Ferry"
+    },
+    {
+        "participant": "Sophia",
+        "distance": 970.3,
+        "speed": 212.6,
+        "transport": "Horse"
+    }
+]

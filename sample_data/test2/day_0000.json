@@ -1,0 +1,32 @@
+[
+    {
+        "participant": "Richard",
+        "distance": 453.3,
+        "speed": 406.3,
+        "transport": "Train"
+    },
+    {
+        "participant": "Richard",
+        "distance": 660.5,
+        "speed": 399.12,
+        "transport": "Bus"
+    },
+    {
+        "participant": "Mary",
+        "distance": 863.6,
+        "speed": 35.22,
+        "transport": "Subway"
+    },
+    {
+        "participant": "Richard",
+        "distance": 183.8,
+        "speed": 689.28,
+        "transport": "Taxi"
+    },
+    {
+        "participant": "Sophia",
+        "distance": 115.4,
+        "speed": 605.82,
+        "transport": "Ice Skates"
+    }
+]

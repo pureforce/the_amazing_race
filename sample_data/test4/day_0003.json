@@ -1,0 +1,44 @@
+[
+    {
+        "participant": "Mateo",
+        "distance": 696.1,
+        "speed": 452.07,
+        "transport": "Bus"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 782.5,
+        "speed": 21.61,
+        "transport": "Car"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 538.2,
+        "speed": 34.13,
+        "transport": "Taxi"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 747.7,
+        "speed": 310.15,
+        "transport": "Walking"
+    },
+    {
+        "participant": "Mike",
+        "distance": 255.7,
+        "speed": 633.01,
+        "transport": "Monorail"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 894.4,
+        "speed": 798.02,
+        "transport": "Bicycle"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 169.0,
+        "speed": 30.89,
+        "transport": "Skis"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "participant": "Mary",
+        "distance": 149.2,
+        "speed": 95.68,
+        "transport": "Ferry"
+    },
+    {
+        "participant": "Mary",
+        "distance": 776.9,
+        "speed": 216.36,
+        "transport": "Walking"
+    },
+    {
+        "participant": "Mary",
+        "distance": 779.2,
+        "speed": 380.06,
+        "transport": "Roller skates"
+    },
+    {
+        "participant": "Richard",
+        "distance": 944.2,
+        "speed": 423.99,
+        "transport": "Bus"
+    },
+    {
+        "participant": "Sophia",
+        "distance": 301.7,
+        "speed": 666.36,
+        "transport": "Sailboat"
+    },
+    {
+        "participant": "Sophia",
+        "distance": 638.2,
+        "speed": 215.0,
+        "transport": "Horse"
+    }
+]

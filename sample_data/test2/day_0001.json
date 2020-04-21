@@ -1,0 +1,26 @@
+[
+    {
+        "participant": "Sophia",
+        "distance": 229.1,
+        "speed": 688.45,
+        "transport": "Dog Sled"
+    },
+    {
+        "participant": "Mary",
+        "distance": 342.5,
+        "speed": 257.66,
+        "transport": "Mule"
+    },
+    {
+        "participant": "Richard",
+        "distance": 493.4,
+        "speed": 372.72,
+        "transport": "Subway"
+    },
+    {
+        "participant": "Richard",
+        "distance": 981.2,
+        "speed": 44.77,
+        "transport": "Car"
+    }
+]

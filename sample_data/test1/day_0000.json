@@ -1,0 +1,80 @@
+[
+    {
+        "participant": "Charlotte",
+        "distance": 389.6,
+        "speed": 782.11,
+        "transport": "Jet"
+    },
+    {
+        "participant": "Tom",
+        "distance": 452.9,
+        "speed": 387.3,
+        "transport": "Motorcycle"
+    },
+    {
+        "participant": "Charlotte",
+        "distance": 953.6,
+        "speed": 406.88,
+        "transport": "Tram"
+    },
+    {
+        "participant": "Richard",
+        "distance": 510.7,
+        "speed": 631.58,
+        "transport": "Taxi"
+    },
+    {
+        "participant": "Elizabeth",
+        "distance": 700.3,
+        "speed": 279.86,
+        "transport": "Motorboat"
+    },
+    {
+        "participant": "Elizabeth",
+        "distance": 105.6,
+        "speed": 485.53,
+        "transport": "Car"
+    },
+    {
+        "participant": "Elizabeth",
+        "distance": 939.9,
+        "speed": 50.53,
+        "transport": "Motorboat"
+    },
+    {
+        "participant": "Richard",
+        "distance": 636.2,
+        "speed": 110.84,
+        "transport": "Kayak"
+    },
+    {
+        "participant": "Tom",
+        "distance": 31.3,
+        "speed": 55.34,
+        "transport": "Carriage"
+    },
+    {
+        "participant": "Ava",
+        "distance": 623.5,
+        "speed": 193.09,
+        "transport": "Donkey"
+    },
+    {
+        "participant": "Elizabeth",
+        "distance": 214.6,
+        "speed": 613.98,
+        "transport": "Kick scooter"
+    },
+    {
+        "participant": "Richard",
+        "distance": 115.5,
+        "speed": 6.29,
+        "transport": "Ox"
+    },
+    {
+        "participant": "Elizabeth",
+        "distance": 597.2,
+        "speed": 0.94,
+        "transport": "Car"
+    }
+]

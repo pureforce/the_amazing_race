@@ -1,0 +1,44 @@
+[
+    {
+        "participant": "Mary",
+        "distance": 465.2,
+        "speed": 329.95,
+        "transport": "Ox"
+    },
+    {
+        "participant": "Mary",
+        "distance": 582.7,
+        "speed": 334.71,
+        "transport": "Sailboat"
+    },
+    {
+        "participant": "Mary",
+        "distance": 174.6,
+        "speed": 754.92,
+        "transport": "Wheelchair"
+    },
+    {
+        "participant": "Richard",
+        "distance": 599.6,
+        "speed": 728.51,
+        "transport": "Wheelchair"
+    },
+    {
+        "participant": "Richard",
+        "distance": 628.7,
+        "speed": 421.25,
+        "transport": "Jet"
+    },
+    {
+        "participant": "Sophia",
+        "distance": 934.3,
+        "speed": 681.64,
+        "transport": "Snowmobile"
+    },
+    {
+        "participant": "Mary",
+        "distance": 383.4,
+        "speed": 464.23,
+        "transport": "Cruise Ship"
+    }
+]

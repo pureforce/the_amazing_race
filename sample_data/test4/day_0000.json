@@ -1,0 +1,38 @@
+[
+    {
+        "participant": "Mike",
+        "distance": 835.9,
+        "speed": 160.38,
+        "transport": "Hyperloop"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 903.3,
+        "speed": 501.31,
+        "transport": "Horse-drawn boat"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 339.6,
+        "speed": 572.34,
+        "transport": "Sailboat"
+    },
+    {
+        "participant": "Mike",
+        "distance": 585.0,
+        "speed": 176.84,
+        "transport": "Row Boat"
+    },
+    {
+        "participant": "Mike",
+        "distance": 153.6,
+        "speed": 409.08,
+        "transport": "Walking"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 527.4,
+        "speed": 724.85,
+        "transport": "Yacht"
+    }
+]

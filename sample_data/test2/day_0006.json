@@ -1,0 +1,32 @@
+[
+    {
+        "participant": "Mary",
+        "distance": 903.8,
+        "speed": 84.78,
+        "transport": "Jet Ski"
+    },
+    {
+        "participant": "Mary",
+        "distance": 757.9,
+        "speed": 307.31,
+        "transport": "Ferry"
+    },
+    {
+        "participant": "Richard",
+        "distance": 705.9,
+        "speed": 744.42,
+        "transport": "Roller skates"
+    },
+    {
+        "participant": "Richard",
+        "distance": 161.2,
+        "speed": 258.39,
+        "transport": "Chariot"
+    },
+    {
+        "participant": "Richard",
+        "distance": 349.0,
+        "speed": 594.29,
+        "transport": "Mule"
+    }
+]

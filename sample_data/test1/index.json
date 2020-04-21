@@ -1,0 +1,21 @@
+{
+    "friends": [
+        "Charlotte",
+        "Ava",
+        "Richard",
+        "Elizabeth",
+        "Tom"
+    ],
+    "files": [
+        [
+            "day_0000.json",
+            6270.9,
+            13
+        ],
+        [
+            "day_0001.json",
+            4909.1,
+            15
+        ]
+    ]
+}

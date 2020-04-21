@@ -1,0 +1,74 @@
+[
+    {
+        "participant": "Mike",
+        "distance": 544.6,
+        "speed": 162.25,
+        "transport": "Lyft"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 562.4,
+        "speed": 232.78,
+        "transport": "Car"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 394.0,
+        "speed": 119.72,
+        "transport": "Jet"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 337.7,
+        "speed": 73.94,
+        "transport": "Motorcycle"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 635.3,
+        "speed": 502.99,
+        "transport": "Walking"
+    },
+    {
+        "participant": "Mike",
+        "distance": 564.2,
+        "speed": 425.2,
+        "transport": "Jet"
+    },
+    {
+        "participant": "Mike",
+        "distance": 819.7,
+        "speed": 273.97,
+        "transport": "Horse-drawn boat"
+    },
+    {
+        "participant": "Mike",
+        "distance": 759.3,
+        "speed": 783.79,
+        "transport": "Bus"
+    },
+    {
+        "participant": "Mike",
+        "distance": 416.7,
+        "speed": 698.86,
+        "transport": "Jet"
+    },
+    {
+        "participant": "Mike",
+        "distance": 35.2,
+        "speed": 157.23,
+        "transport": "Prop Plane"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 850.7,
+        "speed": 262.51,
+        "transport": "Reindeer"
+    },
+    {
+        "participant": "Mike",
+        "distance": 58.7,
+        "speed": 379.99,
+        "transport": "Train"
+    }
+]
