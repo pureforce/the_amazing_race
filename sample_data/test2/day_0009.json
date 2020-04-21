@@ -1,0 +1,32 @@
+[
+    {
+        "participant": "Mary",
+        "distance": 418.4,
+        "speed": 346.51,
+        "transport": "Parachute"
+    },
+    {
+        "participant": "Mary",
+        "distance": 671.6,
+        "speed": 95.49,
+        "transport": "Taxi"
+    },
+    {
+        "participant": "Richard",
+        "distance": 870.3,
+        "speed": 248.93,
+        "transport": "Monorail"
+    },
+    {
+        "participant": "Mary",
+        "distance": 918.6,
+        "speed": 403.58,
+        "transport": "Bus"
+    },
+    {
+        "participant": "Richard",
+        "distance": 336.6,
+        "speed": 616.64,
+        "transport": "Surfing"
+    }
+]

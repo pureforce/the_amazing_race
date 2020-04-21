@@ -1,0 +1,86 @@
+[
+    {
+        "participant": "Olivia",
+        "distance": 11.5,
+        "speed": 706.54,
+        "transport": "Horse"
+    },
+    {
+        "participant": "Patricia",
+        "distance": 711.8,
+        "speed": 598.93,
+        "transport": "Blimp"
+    },
+    {
+        "participant": "Patricia",
+        "distance": 37.7,
+        "speed": 572.35,
+        "transport": "Kick scooter"
+    },
+    {
+        "participant": "Olivia",
+        "distance": 98.2,
+        "speed": 176.48,
+        "transport": "Lyft"
+    },
+    {
+        "participant": "Maria",
+        "distance": 91.9,
+        "speed": 415.57,
+        "transport": "Kick scooter"
+    },
+    {
+        "participant": "Will",
+        "distance": 616.0,
+        "speed": 269.29,
+        "transport": "Tram"
+    },
+    {
+        "participant": "Olivia",
+        "distance": 209.4,
+        "speed": 595.31,
+        "transport": "Prop Plane"
+    },
+    {
+        "participant": "Olivia",
+        "distance": 608.0,
+        "speed": 210.73,
+        "transport": "Walking"
+    },
+    {
+        "participant": "Maria",
+        "distance": 86.1,
+        "speed": 713.03,
+        "transport": "Bus"
+    },
+    {
+        "participant": "Abigail",
+        "distance": 903.3,
+        "speed": 570.45,
+        "transport": "Skis"
+    },
+    {
+        "participant": "Abigail",
+        "distance": 117.4,
+        "speed": 762.64,
+        "transport": "Gondola"
+    },
+    {
+        "participant": "Will",
+        "distance": 600.8,
+        "speed": 18.29,
+        "transport": "Tram"
+    },
+    {
+        "participant": "Olivia",
+        "distance": 393.7,
+        "speed": 512.34,
+        "transport": "Ox"
+    },
+    {
+        "participant": "Jacob",
+        "distance": 231.9,
+        "speed": 303.8,
+        "transport": "Hovercraft"
+    }
+]

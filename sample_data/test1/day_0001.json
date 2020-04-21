@@ -1,0 +1,92 @@
+[
+    {
+        "participant": "Elizabeth",
+        "distance": 93.4,
+        "speed": 255.98,
+        "transport": "Train"
+    },
+    {
+        "participant": "Ava",
+        "distance": 422.8,
+        "speed": 38.66,
+        "transport": "Boda-boda"
+    },
+    {
+        "participant": "Richard",
+        "distance": 555.0,
+        "speed": 178.45,
+        "transport": "Hyperloop"
+    },
+    {
+        "participant": "Charlotte",
+        "distance": 357.7,
+        "speed": 373.15,
+        "transport": "Row Boat"
+    },
+    {
+        "participant": "Elizabeth",
+        "distance": 87.4,
+        "speed": 229.32,
+        "transport": "Ice Skates"
+    },
+    {
+        "participant": "Elizabeth",
+        "distance": 504.1,
+        "speed": 354.17,
+        "transport": "Skis"
+    },
+    {
+        "participant": "Richard",
+        "distance": 19.2,
+        "speed": 299.6,
+        "transport": "Bicycle"
+    },
+    {
+        "participant": "Charlotte",
+        "distance": 88.3,
+        "speed": 215.07,
+        "transport": "Jet"
+    },
+    {
+        "participant": "Ava",
+        "distance": 0.0,
+        "speed": 388.64,
+        "transport": "Motorcycle"
+    },
+    {
+        "participant": "Richard",
+        "distance": 480.4,
+        "speed": 27.31,
+        "transport": "Bus"
+    },
+    {
+        "participant": "Richard",
+        "distance": 313.0,
+        "speed": 35.92,
+        "transport": "Skis"
+    },
+    {
+        "participant": "Ava",
+        "distance": 231.4,
+        "speed": 597.33,
+        "transport": "Lyft"
+    },
+    {
+        "participant": "Charlotte",
+        "distance": 744.1,
+        "speed": 256.88,
+        "transport": "Car"
+    },
+    {
+        "participant": "Charlotte",
+        "distance": 115.1,
+        "speed": 467.95,
+        "transport": "Toboggan"
+    },
+    {
+        "participant": "Ava",
+        "distance": 826.6,
+        "speed": 320.33,
+        "transport": "Toboggan"
+    }
+]

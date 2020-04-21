@@ -1,0 +1,92 @@
+[
+    {
+        "participant": "Oliver",
+        "distance": 668.6,
+        "speed": 17.64,
+        "transport": "Hyperloop"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 811.5,
+        "speed": 209.0,
+        "transport": "Blimp"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 73.1,
+        "speed": 726.6,
+        "transport": "Kayak"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 170.5,
+        "speed": 213.3,
+        "transport": "Boda-boda"
+    },
+    {
+        "participant": "Mike",
+        "distance": 405.7,
+        "speed": 112.26,
+        "transport": "Lyft"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 911.2,
+        "speed": 393.33,
+        "transport": "Mule"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 653.9,
+        "speed": 139.65,
+        "transport": "Motorboat"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 703.3,
+        "speed": 81.73,
+        "transport": "Hovercraft"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 849.5,
+        "speed": 720.84,
+        "transport": "Kick scooter"
+    },
+    {
+        "participant": "Mateo",
+        "distance": 415.6,
+        "speed": 777.09,
+        "transport": "Gondola"
+    },
+    {
+        "participant": "Mike",
+        "distance": 170.1,
+        "speed": 577.3,
+        "transport": "Tricycle"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 51.9,
+        "speed": 711.49,
+        "transport": "Horse"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 341.1,
+        "speed": 362.77,
+        "transport": "Sailboat"
+    },
+    {
+        "participant": "Mike",
+        "distance": 511.3,
+        "speed": 352.98,
+        "transport": "Car"
+    },
+    {
+        "participant": "Oliver",
+        "distance": 720.8,
+        "speed": 527.95,
+        "transport": "Canoe"
+    }
+]

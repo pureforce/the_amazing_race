@@ -1,0 +1,80 @@
+[
+    {
+        "participant": "Patricia",
+        "distance": 187.5,
+        "speed": 584.88,
+        "transport": "Hot Air Balloon"
+    },
+    {
+        "participant": "Patricia",
+        "distance": 394.0,
+        "speed": 175.4,
+        "transport": "Dog Sled"
+    },
+    {
+        "participant": "Evelyn",
+        "distance": 748.4,
+        "speed": 608.85,
+        "transport": "Jet"
+    },
+    {
+        "participant": "Ava",
+        "distance": 394.7,
+        "speed": 387.05,
+        "transport": "Sailboat"
+    },
+    {
+        "participant": "Abigail",
+        "distance": 34.7,
+        "speed": 210.43,
+        "transport": "Roller skates"
+    },
+    {
+        "participant": "Abigail",
+        "distance": 965.6,
+        "speed": 198.03,
+        "transport": "Bus"
+    },
+    {
+        "participant": "Jim",
+        "distance": 355.5,
+        "speed": 446.85,
+        "transport": "Jet"
+    },
+    {
+        "participant": "Barbara",
+        "distance": 734.2,
+        "speed": 211.09,
+        "transport": "Snowmobile"
+    },
+    {
+        "participant": "Evelyn",
+        "distance": 354.4,
+        "speed": 304.32,
+        "transport": "Bicycle"
+    },
+    {
+        "participant": "Olivia",
+        "distance": 817.0,
+        "speed": 733.45,
+        "transport": "ATV"
+    },
+    {
+        "participant": "Jacob",
+        "distance": 284.3,
+        "speed": 298.28,
+        "transport": "Blimp"
+    },
+    {
+        "participant": "Abigail",
+        "distance": 775.6,
+        "speed": 521.67,
+        "transport": "Prop Plane"
+    },
+    {
+        "participant": "Evelyn",
+        "distance": 821.8,
+        "speed": 166.07,
+        "transport": "Camel"
+    }
+]
